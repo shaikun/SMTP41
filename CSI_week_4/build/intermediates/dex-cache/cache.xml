@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shaikun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_027368a9a99074f8587d45ec7986db0fb81a32bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_945c1b7ba4cd520cfc47e9f37264e3bdeb46430a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c77798e33ee082694ca69eb2beaaeef335f20e">
+        <dex dex="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98e830164bf3a5ce6d859ce13bea7ad0982c6eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_dc84e184a39ffce0809d3ccffd476e682b3f9fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3fd587bbbd4f912c97cf721fd93ca71144cdab73">
+        <dex dex="C:\Users\Shaikun\AndroidStudioProjects\CSI_week_4_hulp spul\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70baa362b48f644130e24f24e18b0e592e3af2f9\classes.dex" />
+    </item>
+
+</items>

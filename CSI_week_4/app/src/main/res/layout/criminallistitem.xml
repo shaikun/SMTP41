@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <!-- TODO: put the user interface for one single item of the criminal list view here -->
+
+    <ImageView
+        android:src="@drawable/mugshot1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mugshotView" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nameView" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bountyView" />
+</LinearLayout>

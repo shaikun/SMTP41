@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSI_week_4.iml" filepath="$PROJECT_DIR$/CSI_week_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSI_week_4_hulp spul.iml" filepath="$PROJECT_DIR$/CSI_week_4_hulp spul.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
